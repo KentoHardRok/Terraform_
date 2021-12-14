@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TFC Getting Started
 
 In this repo, you'll find a quick and easy path to get started using [Terraform Cloud](https://app.terraform.io/) with the [Terraform CLI](https://github.com/hashicorp/terraform).
@@ -37,3 +38,6 @@ cd tfc-getting-started
 ```
 
 Welcome to Terraform Cloud!
+=======
+# Terraform_
+>>>>>>> ffb427a9eb352d26a007735927dfca3c8f4388c2
